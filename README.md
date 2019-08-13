@@ -16,7 +16,7 @@ Bruce's release contains:
  * vb6-bignum.vbp
  * LICENSE
 
-Better testing and better documentation to follow.
+Better testing and better documentation may follow.
 
 MIT license.
 
