@@ -1,5 +1,5 @@
 # bignum-vb6
-Steven S. Skiena's bignum.c to VB6.
+Steven S. Skiena's bignum.c in VB6.
 
 Implements large integer arithmetic: addition, subtraction, multiplication, and division.
 
