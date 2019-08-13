@@ -14,7 +14,7 @@ Bruce's release contains:
  * BIGNUM.cls
  * BIGNUMLIB.cls
  * vb6-bignum.vbp
- * MIT.LICENSE
+ * LICENSE
 
 Better testing and better documentation to follow.
 
